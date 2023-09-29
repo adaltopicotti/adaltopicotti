@@ -5,13 +5,13 @@ I'm a developer from Brazil, currently working with front-end development.
 - 🎓 Currently studing Swift + SwiftUI development.
 - 🤔 Also actively taking some certifications and courses.
 
-## Conecte-se comigo
+## Social
 
 [![GitHub](https://img.shields.io/badge/GitHub-db40a2?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/adaltopicotti)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-db40a2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/adaltopicotti/)
 [![Instagram](https://img.shields.io/badge/Instagram-db40a2?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/adaltopicotti/)
 
-## Habilidades
+## Skills
 
 [![GitHub](https://img.shields.io/badge/GitHub-db40a2?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-db40a2?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)

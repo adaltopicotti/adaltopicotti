@@ -1,9 +1,7 @@
 # Adalto Picotti Junior
 
-I'm a developer from Brazil, currently working with front-end development.
+I'm a developer from Brazil, currently working with Fullstack development.
 
-- 🎓 Currently studing Swift + SwiftUI development.
-- 🤔 Also actively taking some certifications and courses.
 
 ## Social
 
